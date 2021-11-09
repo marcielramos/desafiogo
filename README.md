@@ -1,10 +1,10 @@
 # codeeducation
 
-Caminho da imagem no dockerhub
+Caminho da imagem no dockerhub:
 https://hub.docker.com/repository/docker/marcielramos/codeeducation
 
-Push
+Push:
 docker push marcielramos/codeeducation:latest
 
-Run
+Run:
 docker run marcielramos/codeeducation
